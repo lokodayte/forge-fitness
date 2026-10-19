@@ -1,0 +1,31 @@
+{
+  "license": "CC0-1.0",
+  "author": "FORGE (original illustrations)",
+  "ids": [
+    "leg-press",
+    "machine-chest-press",
+    "chest-supported-row",
+    "seated-leg-curl",
+    "machine-lateral-raise",
+    "cable-triceps-pushdown",
+    "ab-crunch-machine",
+    "hack-squat",
+    "lat-pulldown",
+    "incline-chest-press",
+    "reverse-pec-deck",
+    "preacher-curl-machine",
+    "standing-calf-raise",
+    "machine-shoulder-press",
+    "seated-cable-row",
+    "pec-deck",
+    "leg-extension",
+    "cable-biceps-curl",
+    "triceps-extension-machine",
+    "cable-crunch",
+    "reverse-crunch",
+    "dead-bug",
+    "pallof-press",
+    "side-plank",
+    "plank"
+  ]
+}
