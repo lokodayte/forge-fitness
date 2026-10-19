@@ -59,7 +59,7 @@ export function Onboarding({ profile }: { profile: Profile }) {
       {step === 0 && (
         <Card>
           <h1 className="text-3xl font-bold tracking-tight">Welcome to FORGE</h1>
-          <p className="mt-3 text-muted">A private training, cardio, nutrition, body-progress and recovery tracker. Your starting profile and a 3-day machine-based program are pre-loaded — you can edit everything.</p>
+          <p className="mt-3 text-muted">A private training, cardio, nutrition, body-progress and recovery tracker. A 3-day machine-based program is pre-loaded, and you can edit everything. Your details are entered next and stay on this device.</p>
           <ul className="mt-5 space-y-3 text-sm">
             {[
               'Everything is stored only in this browser on this device (IndexedDB). No account, no tracking, no servers.',
